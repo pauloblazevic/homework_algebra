@@ -8,7 +8,7 @@ struct Ljubimci {
 	string vrsta;
 };
 
-
+//
 
 int main() {
 	Ljubimci polje[4];
